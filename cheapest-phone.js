@@ -6,6 +6,7 @@ const phones = [
     {name: 'nokia m92', price: 8000, camera: 8, storage:4},
     {name: 'htc h81', price: 25000, camera: 8, storage:16},
 ];
+console.log(String(phones.indexOf()))
 
 let cheapest = phones[0]; //initially default hishebe 1st takei dhorse
 for(const phone of phones) {

@@ -1,4 +1,4 @@
-//jongol e koto mile gele koyta animal er sthe dekha hobe
+//e koto mile gele koyta animal er sthe dekha hobejongol 
 function animalCount(miles) {
     const animalDensityFirst10Miles = 10;
     const animalDensitySecond10Miles = 50;
